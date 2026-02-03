@@ -1,16 +1,13 @@
-# sql_injection_test
+# on-spot
 
 ## Vulnerability Context
 
 ### Required Information
-- **CVE ID**: CVE-2023-1234
-- **CWE**: CWE-89
-- **Language**: Python
-- **Framework Version**: 3.11
-- **Database**: PostgreSQL
-- **Server**: Uvicorn
-- **UI Framework**: React
-- **Template Type**: SQL Injection
-
-### Research Reference
-- **Published Research Link**: https://example.com/research
+- **CVE ID**: 
+- **CWE**: 
+- **Language**: 
+- **Framework Version**: 
+- **Database**: 
+- **Server**: 
+- **UI Framework**: 
+- **Template Type**: dynamic

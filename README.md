@@ -1,4 +1,4 @@
-# on-spot
+# template-1
 
 ## Vulnerability Context
 

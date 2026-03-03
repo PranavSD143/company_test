@@ -1,13 +1,13 @@
-# template-1
+# template-static
 
 ## Vulnerability Context
 
 ### Required Information
 - **CVE ID**: 
 - **CWE**: Path Traversal
-- **Language**: 
+- **Language**: C#
 - **Framework Version**: 
-- **Database**: 
+- **Database**: MySQL
 - **Server**: 
 - **UI Framework**: 
-- **Template Type**: dynamic
+- **Template Type**: static

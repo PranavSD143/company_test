@@ -1,13 +1,13 @@
-# template-static
+# template-local-test
 
 ## Vulnerability Context
 
 ### Required Information
 - **CVE ID**: 
-- **CWE**: Path Traversal
-- **Language**: C#
+- **CWE**: 
+- **Language**: 
 - **Framework Version**: 
-- **Database**: MySQL
+- **Database**: 
 - **Server**: 
 - **UI Framework**: 
-- **Template Type**: static
+- **Template Type**: dynamic

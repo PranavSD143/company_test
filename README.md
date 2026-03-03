@@ -4,7 +4,7 @@
 
 ### Required Information
 - **CVE ID**: 
-- **CWE**: 
+- **CWE**: Path Traversal
 - **Language**: 
 - **Framework Version**: 
 - **Database**: 

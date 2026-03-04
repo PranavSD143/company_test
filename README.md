@@ -1,4 +1,4 @@
-# template-dynamic-1.1
+# template-dynamic-1.2
 
 ## Vulnerability Context
 

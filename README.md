@@ -1,4 +1,4 @@
-# temaplate-dynamic-1
+# template-dynamic-1
 
 ## Vulnerability Context
 

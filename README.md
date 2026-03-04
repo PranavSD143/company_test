@@ -1,4 +1,4 @@
-# template-local-test
+# temaplate-dynamic-1
 
 ## Vulnerability Context
 

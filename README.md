@@ -1,4 +1,4 @@
-# template-dynamic-1.2
+# git-push-test
 
 ## Vulnerability Context
 

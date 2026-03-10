@@ -1,4 +1,4 @@
-# test-push-3
+# sample-push
 
 ## Vulnerability Context
 

@@ -1,0 +1,40 @@
+<!-- HTML template for the SQL injection demo -->
+<!-- Type: template -->
+<!-- Language: html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SQL Injection Demo</title>
+</head>
+<body>
+    <h1>SQL Injection Vulnerability Demo</h1>
+    <form method="POST">
+        <label for="username">Enter username:</label>
+        <input type="text" id="username" name="username">
+        <input type="submit" value="Search">
+    </form>
+
+    {% if results %}
+        <h2>Results:</h2>
+        <table border="1">
+            <tr>
+                {% for key in results[0].keys() %}
+                    <th>{{ key }}</th>
+                {% endfor %}
+            </tr>
+            {% for row in results %}
+                <tr>
+                    {% for value in row.values() %}
+                        <td>{{ value }}</td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </table>
+    {% endif %}
+
+    {% if error %}
+        <h2 style="color: red;">Error: {{ error }}</h2>
+    {% endif %}
+</body>
+</html>

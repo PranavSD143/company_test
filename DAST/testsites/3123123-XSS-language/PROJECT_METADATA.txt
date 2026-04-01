@@ -1,0 +1,3 @@
+Project: Vulnerable SQL Injection App
+Description: A Flask application demonstrating SQL injection vulnerability
+Frameworks: Flask, PyMySQL, Docker
